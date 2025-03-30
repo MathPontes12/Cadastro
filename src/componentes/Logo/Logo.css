@@ -1,0 +1,14 @@
+.imagem-banner {
+
+    width: auto;
+    height: 30rem;
+    border-radius: 50px;
+    cursor: pointer;
+
+}
+
+@media (max-width: 1100px) {
+    .imagem-banner {
+      height: 15rem;
+    }
+  }

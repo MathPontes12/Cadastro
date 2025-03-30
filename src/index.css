@@ -1,0 +1,13 @@
+body, html {
+    margin: 0;
+    background-color: var(--cor-primaria);
+    font-family: "Overlock", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+:root {
+    --cor-primaria: #0e2535;
+    --cor-secundaria: rgb(6, 170, 203);
+    --branco: rgba(255, 255, 255, 0.918);
+}
